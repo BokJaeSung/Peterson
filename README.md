@@ -1,2 +1,7 @@
-# Peterson
-Peterson's algorithm for n processes
+# Peterson's algorithm for n processes
+1. pseudo code
+```c
+lock(pid);
+<critical section>;
+unlock(pid);
+```
