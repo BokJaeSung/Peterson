@@ -5,3 +5,4 @@ lock(pid);
 <critical section>;
 unlock(pid);
 ```
+https://cs.stackexchange.com/questions/60857/understanding-n-process-petersons-algorithm
